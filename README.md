@@ -27,8 +27,8 @@ See [THIRD_PARTY_LICENSES](./THIRD_PARTY_LICENSES) for the full license text.
 ## 📞 Support
 
 - 📧 **Email**: [seyedali.dev@gmail.com](mailto:seyedali.dev@gmail.com)
-- 🐛 **Issues**: [GitHub Issues](https://github.com/seyedali-dev/gopherbox/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/seyedali-dev/gopherbox/discussions)
+- 🐛 **Issues**: [GitHub Issues](https://github.com/seyallius/gopherbox/issues)
+- 💬 **Discussions**: [GitHub Discussions](https://github.com/seyallius/gopherbox/discussions)
 
 ## 🚀 Roadmap
 
