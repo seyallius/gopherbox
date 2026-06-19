@@ -13,7 +13,7 @@ A lightweight collection of Go utility functions...
 ### Install
 
 ```bash
-go get github.com/seyedali-dev/gopherbox
+go get github.com/seyallius/gopherbox
 ```
 
 ## 📄 License
