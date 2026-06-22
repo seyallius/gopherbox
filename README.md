@@ -6,7 +6,25 @@
 
 A lightweight collection of Go utility functions...
 
-...
+---
+
+> **⚠️ Project Archived**
+>
+> This repository has been archived and is no longer actively maintained. The utilities have been split into focused, standalone modules that better align with Go's philosophy of small, composable packages:
+>
+> - **[dbtestkit](./dbtestkit)** → Moved to: [`github.com/seyallius/snapdb`](https://github.com/seyallius/snapdb)
+> - **[logger](./logger)** → Remains available here (no active development planned)
+>
+> **Why archived?**
+>
+> A monolithic "utility box" library doesn't follow Go's idiomatic approach of focused, single-purpose packages. Separating these utilities into independent modules makes them easier to version, maintain, and import without pulling in unnecessary dependencies.
+>
+> **Looking for alternatives?**
+>
+> - For database testing: Consider [dbtestkit](https://github.com/seyallius/snapdb) (actively maintained)
+> - For logging: Consider popular alternatives like [slog](https://pkg.go.dev/log/slog) (standard library), [zerolog](https://github.com/rs/zerolog), or [zap](https://github.com/uber-go/zap)
+
+---
 
 ## 🚀 Quick Start
 
