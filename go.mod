@@ -4,6 +4,7 @@ go 1.25.0
 
 require (
 	github.com/docker/go-connections v0.7.0
+	github.com/go-sql-driver/mysql v1.7.1
 	github.com/mattn/go-sqlite3 v1.14.45
 	github.com/stretchr/testify v1.11.1
 	github.com/testcontainers/testcontainers-go v0.42.0
